@@ -1,1 +1,5 @@
-{"users":[{"id":"af752233-2d15-4470-834d-ba7126b4d1e7","name":"Augusto Kalahary","email":"AuuKalaharyKW@gmail.com"}]}
+{
+  "users": [
+    { "id": 1, "name": "Augusto Kalahary", "email": "AuuKalaharyKW@gmail.com" }
+  ]
+}
