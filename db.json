@@ -1,5 +1,9 @@
 {
   "users": [
-    { "id": 1, "name": "Augusto Kalahary", "email": "gutoTest@gmail.com" }
+    {
+      "id": "b3b8cf08-ca15-48a1-9b5a-b4d125cc3a3b",
+      "name": "Augusto Kalahary",
+      "email": "gutoTest@gmail.com"
+    }
   ]
 }
